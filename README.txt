@@ -1,12 +1,13 @@
-BTMA431 Final Group Project (MoneyPuck) README File
+BTMA431 Final Group Project (MoneyPuck)
 
-Group Members: Isaac Lutzko (30026703), Nolan Ruzicki (30132045), Karl Specht (30120565), Doug Strueby (30122048)
+Group Members: Isaac Lutzko, Nolan Ruzicki, Karl Specht, Doug Strueby
 
 Running Instructions
-1) Unzip the folder that contains all the files for our project (R files, Power BI files, etc.)
-2) Open RStudio and open the 4 R files (DataCollection, Playoffs, DepthModule, and 
+1) Download zip.
+2) Unzip the folder that contains all the files for our project (R files, Power BI files, etc.)
+3) Open RStudio and open the 4 R files (DataCollection, Playoffs, DepthModule, and 
    ChampionsExcel) that are in the folder.
-3) Run the R files in the following order:
+4) Run the R files in the following order:
 	i) "CTRL + Enter" through the "BTMA431_FinalGroupProject_DataCollection" file first. Note that
 	   some for loops may take longer than expected because we need all the necessary data is
 	   collected but also make sure we don't make too many HTTP requests made within the time
