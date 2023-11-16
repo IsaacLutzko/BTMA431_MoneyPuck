@@ -1,7 +1,7 @@
 ########################################################################################
 # W23 BTMA 431
 # BTMA431_FinalGroupProject_WebScrapingOutput.R
-# Authors: Isaac Lutzko (30026703), Nolan Ruzicki (30132045), Karl Specht (30120565), Doug Strueby (30122048)
+# Authors: Isaac Lutzko, Nolan Ruzicki, Karl Specht, Doug Strueby
 # Instructor: Duy Dao
 # Description: This program is meant to accomplish the task of gathering the data we need for our final project
 #              via web scraping different web pages on the "https://www.hockey-reference.com/" website. This is
