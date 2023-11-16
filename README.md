@@ -1,8 +1,10 @@
-BTMA431 Final Group Project (MoneyPuck)
+## BTMA431 Final Group Project - MoneyPuck
 
 Group Members: Isaac Lutzko, Nolan Ruzicki, Karl Specht, Doug Strueby
 
-Running Instructions
+General Description: Conducted a study on and investigated NHL player and team data. Using R, this data was collected via web scraping, visualized with R packages, and analyzed via decision analysis and other statistical methods.
+
+Running Instructions:
 1) Download zip.
 2) Unzip the folder that contains all the files for our project (R files, Power BI files, etc.)
 3) Open RStudio and open the 4 R files (DataCollection, Playoffs, DepthModule, and 
